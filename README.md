@@ -14,7 +14,7 @@ LinkedInJobAnalytics is a data-driven project designed to empower job seekers wi
 
 ## Getting Started
 
-1. Clone this repository: `git clone https://github.com/yourusername/LinkedInJobAnalytics.git`
+1. Clone this repository
 2. Navigate to the project directory: `cd LinkedInJobAnalytics`
 
 
